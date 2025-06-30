@@ -3,7 +3,7 @@ This Repository contains all the internship tasks assigned to me during  my inte
 
 # Project Task Details & Strategy
 
-This file describes how each of your three tasks was approached and solved, along with the strategies used.
+This file describes how each of three tasks was approached and solved, along with the strategies used.
 
 ---
 
