@@ -84,7 +84,7 @@ This repository contains selected tasks completed during a hands-on internship f
 
 ---
 
-## ✅ Task 2: End-to-End ML Pipeline using Scikit-learn
+##  Task 2: End-to-End ML Pipeline using Scikit-learn
 
 **Objective:**  
 Build a reusable, production-ready machine learning pipeline to predict customer churn using the Telco Customer Churn dataset.
@@ -96,11 +96,11 @@ Build a reusable, production-ready machine learning pipeline to predict customer
 - Hyperparameter tuning using `GridSearchCV`
 - Final pipeline exported using `joblib`
 
-📁 Notebook: `Task 2/task2_pipeline.ipynb`
+ Notebook: `Task 2/task2_pipeline.ipynb`
 
 ---
 
-## ✅ Task 3: Multi-Modal Data Handling
+##  Task 3: Multi-Modal Data Handling
 
 **Objective:**  
 Handle and process multi-modal data by combining tabular data and image inputs in a classification pipeline.
@@ -112,11 +112,11 @@ Handle and process multi-modal data by combining tabular data and image inputs i
 - Training and evaluation pipeline using GPU/CPU
 - Synthetic dataset used for demonstration
 
-📁 Notebook: `Task 3/task3_multimodal.ipynb`
+ Notebook: `Task 3/task3_multimodal.ipynb`
 
 ---
 
-## ✅ Task 5: Data Visualization & Analysis
+##  Task 5: Data Visualization & Analysis
 
 **Objective:**  
 Explore and visualize key patterns in a dataset to uncover insights through visual storytelling.
@@ -127,11 +127,11 @@ Explore and visualize key patterns in a dataset to uncover insights through visu
 - Correlation heatmap, distribution plots, box plots
 - Interpretation of customer trends and behaviors
 
-📁 Notebook: `Task 5/task5_visualization.ipynb`
+ Notebook: `Task 5/task5_visualization.ipynb`
 
 ---
 
-## 💡 Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python (3.x)
 - Scikit-learn
@@ -143,7 +143,7 @@ Explore and visualize key patterns in a dataset to uncover insights through visu
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - All code is written with clarity and modularity for easy understanding and future enhancement.
 - Synthetic/simplified datasets are used where necessary for demonstration purposes.
